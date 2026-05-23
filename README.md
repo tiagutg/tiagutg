@@ -35,7 +35,7 @@
       <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
     </td>
     <td valign="middle">
-      <img src="SUA_IMAGEM_AQUI.png" height="60" alt="sua imagem" />
+     <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
     </td>
   </tr>
 </table>
