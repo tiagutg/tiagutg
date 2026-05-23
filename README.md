@@ -44,9 +44,7 @@
   </a>
 </div>
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/tiagutg/tiagutg/snake-output/snake.svg" alt="Snake animation" />
 
 ###
