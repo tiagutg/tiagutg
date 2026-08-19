@@ -1,20 +1,17 @@
 <h2 align="center">Olá! Sejam bem-vindos ao meu GitHub!</h2>
 
 <p align="center">
-  Estudante de Desenvolvimento de Software | Em constante aprendizado.<br>
-  Sinta-se à vontade para explorar meus repositórios e entrar em contato.
+  Estudante de Análise e Desenvolvimento de Sistemas (3º período) e Estagiário de Desenvolvimento na Mindworks.<br>
+  Focado em desenvolvimento de software, automação e soluções corporativas.
 </p>
 
 ###
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/tiagutg/tiagutg/stats-output/stats.svg" height="150" alt="stats graph" /></td>
-      <td><img src="https://raw.githubusercontent.com/tiagutg/tiagutg/languages-output/languages.svg" height="150" alt="languages graph" /></td>
-    </tr>
-  </table>
-</div>
+<h3 align="left">Sobre mim</h3>
+
+<p align="left">
+  Atuo na documentação, suporte e evolução de sistemas em ambiente corporativo. Possuo experiência com desenvolvimento web, lógica de programação e gerenciamento de bancos de dados, além de aprofundar estudos em APIs REST, computação em nuvem com AWS, automação de processos e front-end moderno.
+</p>
 
 ###
 
@@ -28,17 +25,32 @@
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
   <br><br>
 
-  **Web e Banco de Dados:**<br>
+  **Front-end & Web:**<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   <br><br>
 
-  **Ferramentas e Design:**<br>
+  **Banco de Dados & Nuvem:**<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
+  <br><br>
+
+  **Automação & Integração:**<br>
+  <img src="https://skillicons.dev/icons?i=n8n" height="30" alt="n8n logo" />
+  <img width="12" />
+  <!-- Ícone alternativo para Typebot ou texto caso não tenha ícone nativo -->
+  <img src="https://img.shields.io/badge/Typebot-000000?style=for-the-badge&logo=typebot&logoColor=white" height="30" alt="typebot badge" />
+  <br><br>
+
+  **Ferramentas & IDEs:**<br>
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
