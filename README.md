@@ -15,6 +15,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tiagutg/tiagutg/languages-output/languages.svg" height="150" alt="languages graph" />
+</div>
+
+###
+
 <h3 align="left">Tecnologias e Ferramentas</h3>
 
 <div align="left">
@@ -46,7 +52,6 @@
   **Automação & Integração:**<br>
   <img src="https://skillicons.dev/icons?i=n8n" height="30" alt="n8n logo" />
   <img width="12" />
-  <!-- Ícone alternativo para Typebot ou texto caso não tenha ícone nativo -->
   <img src="https://img.shields.io/badge/Typebot-000000?style=for-the-badge&logo=typebot&logoColor=white" height="30" alt="typebot badge" />
   <br><br>
 
