@@ -50,7 +50,7 @@
   <br><br>
 
   **Automação & Integração:**<br>
-  <img src="https://skillicons.dev/icons?i=n8n" height="30" alt="n8n logo" />
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" height="30" alt="n8n badge" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Typebot-000000?style=for-the-badge&logo=typebot&logoColor=white" height="30" alt="typebot badge" />
   <br><br>
