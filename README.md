@@ -1,8 +1,8 @@
-<h2 align="center">Olá! Sejam bem-vindos ao meu GitHub! 👋</h2>
+<h2 align="center">Olá! Sejam bem-vindos ao meu GitHub!</h2>
 
 <p align="center">
-  👨‍💻 Estudante de Desenvolvimento de Software | Apaixonado por tecnologia e programação.<br>
-  🌱 Atualmente focado em aprimorar minhas habilidades em Python, Java e desenvolvimento web.
+  Estudante de Desenvolvimento de Software | Em constante aprendizado.<br>
+  Sinta-se à vontade para explorar meus repositórios e entrar em contato.
 </p>
 
 ###
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
+<h3 align="left">Tecnologias e Ferramentas</h3>
 
 <div align="left">
   
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <br><br>
 
-  **Web & Banco de Dados:**<br>
+  **Web e Banco de Dados:**<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   <br><br>
 
-  **Ferramentas & Design:**<br>
+  **Ferramentas e Design:**<br>
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left">📱 Conecte-se comigo</h3>
+<h3 align="left">Conecte-se comigo</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/titiagolopes?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
