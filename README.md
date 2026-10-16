@@ -1,88 +1,53 @@
-<h2 align="center">Olá! Sejam bem-vindos ao meu GitHub!</h2>
+<h2 align="center">Olá, eu sou o Tiago</h2>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas (3º período) e Estagiário de Desenvolvimento na Mindworks.<br>
-  Focado em desenvolvimento de software, automação e soluções corporativas.
+  <b>Desenvolvedor Full Stack</b> · React · Next.js · Python · AWS<br>
+  Estagiário de Desenvolvimento na Mindworks e estudante de Análise e Desenvolvimento de Sistemas na Unisales
 </p>
 
-###
-
-<h3 align="left">Sobre mim</h3>
-
-<p align="left">
-  Atuo na documentação, suporte e evolução de sistemas em ambiente corporativo. Possuo experiência com desenvolvimento web, lógica de programação e gerenciamento de bancos de dados, além de aprofundar estudos em APIs REST, computação em nuvem com AWS, automação de processos e front-end moderno.
+<p align="center">
+  <a href="https://www.linkedin.com/in/titiagolopes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+  <a href="mailto:ti.tiagolp@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="E-mail" /></a>
 </p>
 
-###
+### Sobre mim
+
+Desenvolvo interfaces com React, Next.js e TypeScript e integrações de back-end em Python com AWS Lambda, APIs REST e n8n. Hoje trabalho na migração do chatbot de autoatendimento de TI da Mindworks, do front-end às integrações com AWS, GLPI e Active Directory.
+
+- Trabalhando em: chatbot de autoatendimento de TI com Next.js, n8n e AWS Lambda
+- Estudando: testes automatizados e back-end com Java e Spring Boot
+- Buscando: vaga de estágio ou júnior como Desenvolvedor Full Stack
+
+### Projetos em destaque
+
+| Projeto | O que é | Tecnologias |
+| :--- | :--- | :--- |
+| [**Site da Anviti Tecnologia**](https://anviti.com.br) · [código](https://github.com/anvititecnologia/anviti-site) | Site institucional responsivo, com formulário integrado ao WhatsApp, página LGPD e imagens otimizadas em WebP | Next.js, React, TypeScript, Tailwind CSS |
+| [**Site da KL Películas**](https://www.klpeliculas.com.br) | Site com portfólio por categoria, comparação interativa de antes e depois e orçamento pelo WhatsApp | Next.js, React, Vercel |
+| [**Schedemy**](https://github.com/tiagutg/schedemy) | Sistema full stack de agendamentos acadêmicos, feito em equipe na faculdade | Java, Spring Boot, MySQL, React, TypeScript |
+| **Assistente Mindworks** *(privado)* | Chatbot de autoatendimento de TI: chamados, reset de senha, desbloqueio de conta e autenticação em dois fatores | Next.js, n8n, AWS Lambda (Python), API Gateway |
+
+### Tecnologias
+
+**Front-end**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css" height="36" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite, HTML e CSS" />
+
+**Back-end**<br>
+<img src="https://skillicons.dev/icons?i=python,java,spring" height="36" alt="Python, Java e Spring Boot" />
+
+**Banco de dados e nuvem**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker" height="36" alt="PostgreSQL, MySQL, AWS e Docker" />
+
+**Automação e ferramentas**<br>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="36" alt="n8n" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea,figma" height="36" alt="Git, GitHub, GitHub Actions, VS Code, IntelliJ IDEA e Figma" />
+
+### Linguagens mais usadas
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tiagutg/tiagutg/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/tiagutg/tiagutg/languages-output/languages.svg" height="150" alt="Linguagens mais usadas" />
 </div>
-
-###
-
-<h3 align="left">Tecnologias e Ferramentas</h3>
-
-<div align="left">
-  
-  **Linguagens:**<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
-  <br><br>
-
-  **Front-end & Web:**<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <br><br>
-
-  **Banco de Dados & Nuvem:**<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
-  <br><br>
-
-  **Automação & Integração:**<br>
-  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" height="30" alt="n8n badge" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Typebot-000000?style=for-the-badge&logo=typebot&logoColor=white" height="30" alt="typebot badge" />
-  <br><br>
-
-  **Ferramentas & IDEs:**<br>
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
-</div>
-
-###
-
-<h3 align="left">Conecte-se comigo</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/titiagolopes?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.instagram.com/tiagutg?igsh=MWtpYTBtcXh4YXN3Mw%3D%3D&utm_source=qr" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-</div>
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tiagutg/tiagutg/snake-output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/tiagutg/tiagutg/snake-output/snake.svg" alt="Animação da cobrinha com as contribuições" />
 </div>
