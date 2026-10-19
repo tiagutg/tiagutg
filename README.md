@@ -1,4 +1,4 @@
-<h2 align="center">Olá, eu sou o Tiago</h2>
+<h2 align="center">Olá, eu sou o Tiago </h2>
 
 <p align="center">
   <b>Desenvolvedor Full Stack</b> · React · Next.js · Python · AWS<br>
