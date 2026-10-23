@@ -38,7 +38,7 @@ Desenvolvo interfaces com React, Next.js e TypeScript e integrações de back-en
 **Banco de dados e nuvem**<br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker" height="36" alt="PostgreSQL, MySQL, AWS e Docker" />
 
-**Automação e ferramentas**<br>
+**Automação e ferramentas**<br> 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="36" alt="n8n" />
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea,figma" height="36" alt="Git, GitHub, GitHub Actions, VS Code, IntelliJ IDEA e Figma" />
 
